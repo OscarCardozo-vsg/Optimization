@@ -1,0 +1,20 @@
+{
+  "es": {
+    "nApiary": "¿Cuantos apiarios tienes?",
+    "infoApiary": "Ingresa los siguientes valores para el apiario numero ",
+    "value1": "¿Cuantas colmenas doble alza hay en el apiario?",
+    "value2": "¿Cuantas colmenas de una alza hay en el apiario?",
+    "value3": "¿Cuantos nucleos hay en el apiario?",
+    "rightSide": "¿Cuanto alimento usas en este apiario? (da el valor en litros) ",
+    "answere": "El minimo de alimento que se puede hacer para alimentar a todos los apiarios es de: "
+  },
+  "en": {
+    "nApiary": "How many apiaries do you have?",
+    "infoApiary": "Enter the following values for apiary number ",
+    "value1": "How many medium depth hives are in the apiary?",
+    "value2": "How many single depth hives are in the apiary?",
+    "value3": "How many nucleus are in the apiary?",
+    "rightSide": "How much food do you use in this apiary? (provide the value in liters)",
+    "answere": "The minimum amount of feed required to supply all the apiaries is: "
+  }
+}
